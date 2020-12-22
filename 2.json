@@ -1,0 +1,13 @@
+[
+	"Events",
+	{
+		"Type":"Event: search",
+		"DataType":"INT",
+		"value":"40"
+	},
+	{
+		"Type":"Event: dynamicPoolSampling",
+		"DataType":"INT",
+		"value":"0"
+	},
+]
